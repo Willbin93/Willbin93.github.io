@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>会飞的热带鱼Will</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-07-25T13:25:08.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Will</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试</title>
+    <link href="http://yoursite.com/2016/07/25/%E6%B5%8B%E8%AF%95/"/>
+    <id>http://yoursite.com/2016/07/25/测试/</id>
+    <published>2016-07-25T13:25:08.000Z</published>
+    <updated>2016-07-25T13:25:08.000Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>会飞的热带鱼Will</title>
+    <link href="http://yoursite.com/2016/07/25/%E4%BC%9A%E9%A3%9E%E7%9A%84%E7%83%AD%E5%B8%A6%E9%B1%BCWill/"/>
+    <id>http://yoursite.com/2016/07/25/会飞的热带鱼Will/</id>
+    <published>2016-07-25T10:17:22.000Z</published>
+    <updated>2016-07-25T12:10:03.000Z</updated>
+    
+    <content type="html">&lt;p&gt;　　&lt;strong&gt;会飞的热带鱼&lt;/strong&gt;，这个名字的灵感来自于叫‘热带鱼’的影片，一部很台湾很夏天很白日梦的片子。没有特别的意思，只是想提醒自己，不要因为长大而放弃了纯真与梦幻，它们虽然不能成为生活的大米，但是确是最好的调味剂。&lt;a id=&quot;more&quot;&gt;&lt;/a&gt; &lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;　　&lt;strong&gt;会飞的热带鱼&lt;/strong&gt;，这个名字的灵感来自于叫‘热带鱼’的影片，一部很台湾很夏天很白日梦的片子。没有特别的意思，只是想提醒自己，不要因为长大而放弃了纯真与梦幻，它们虽然不能成为生活的大米，但是确是最好的调味剂。
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
