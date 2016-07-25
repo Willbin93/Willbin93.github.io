@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-07-25T12:10:03.000Z</updated>
+  <updated>2016-07-25T15:13:47.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>图片测试</title>
+    <link href="http://yoursite.com/2016/07/25/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/"/>
+    <id>http://yoursite.com/2016/07/25/图片测试/</id>
+    <published>2016-07-25T13:40:22.000Z</published>
+    <updated>2016-07-25T15:13:47.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://qiniupicbed.qiniudn.com/upload/3f2934ae5853af6901daaa17f0c086bc.jpg&quot; alt=&quot;ss&quot;&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://qiniupicbed.qiniudn.com/upload/3f2934ae5853af6901daaa17f0c086bc.jpg&quot; alt=&quot;ss&quot;&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>会飞的热带鱼Will</title>
