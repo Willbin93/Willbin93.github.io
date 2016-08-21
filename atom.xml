@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>会飞的热带鱼Will</title>
+  <title>Will的精神角落</title>
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-08-06T15:09:08.000Z</updated>
+  <updated>2016-08-06T15:09:29.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,27 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>关于最近</title>
-    <link href="http://yoursite.com/2016/08/06/%E5%85%B3%E4%BA%8E%E6%9C%80%E8%BF%91/"/>
-    <id>http://yoursite.com/2016/08/06/关于最近/</id>
-    <published>2016-08-06T14:51:05.000Z</published>
-    <updated>2016-08-06T15:09:08.000Z</updated>
-    
-    <content type="html">&lt;p&gt;　　今天已经是8月6号了，复习的进度没有预期的那么快，内心有一点小小的紧张，再加上最近的睡眠质量真的是堪忧，并且又回到家里复习了，各种因素加在一起还真的是一个挑战。本来以为会有时间来打理这个博客，但是好像并没有想象的那么轻松。主要目前也没有精力去搞别的东西，所以能写的东西就比较局限，能写的也就是平时的一些矫情想法。当然记录生活也不能说是矫情，主要是现在每天过得生活真的是单调，所以很难去发现和记录一些不同的有意思的东西。&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;　　蕉叶刚才又找我来问考研的事情，我觉得他现在犯得就是我去年的问题，就是不够果断与坚定。很多事情只要一个微不足道的开始和一段足够长的坚持就好。而我总是停留在出发，我现在能傲娇的也就是我这人特别容易出发，就是不知道怎么坚持。&lt;br&gt;　　还是早点睡吧，也不知道自己又瞎BB了什么，还是休息好，早点进入真正的状态吧。&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;　　今天已经是8月6号了，复习的进度没有预期的那么快，内心有一点小小的紧张，再加上最近的睡眠质量真的是堪忧，并且又回到家里复习了，各种因素加在一起还真的是一个挑战。本来以为会有时间来打理这个博客，但是好像并没有想象的那么轻松。主要目前也没有精力去搞别的东西，所以能写的东西就比较局限，能写的也就是平时的一些矫情想法。当然记录生活也不能说是矫情，主要是现在每天过得生活真的是单调，所以很难去发现和记录一些不同的有意思的东西。
-    
-    </summary>
-    
-      <category term="杂谈" scheme="http://yoursite.com/categories/zatan/"/>
-    
-    
-  </entry>
   
   <entry>
     <title>三张图</title>
@@ -56,25 +35,6 @@
     </summary>
     
       <category term="杂谈" scheme="http://yoursite.com/categories/zatan/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>会飞的热带鱼Will</title>
-    <link href="http://yoursite.com/2016/07/25/%E4%BC%9A%E9%A3%9E%E7%9A%84%E7%83%AD%E5%B8%A6%E9%B1%BCWill/"/>
-    <id>http://yoursite.com/2016/07/25/会飞的热带鱼Will/</id>
-    <published>2016-07-25T10:17:22.000Z</published>
-    <updated>2016-07-25T12:10:03.000Z</updated>
-    
-    <content type="html">&lt;p&gt;　　&lt;strong&gt;会飞的热带鱼&lt;/strong&gt;，这个名字的灵感来自于叫‘热带鱼’的影片，一部很台湾很夏天很白日梦的片子。没有特别的意思，只是想提醒自己，不要因为长大而放弃了纯真与梦幻，它们虽然不能成为生活的大米，但是确是最好的调味剂。&lt;a id=&quot;more&quot;&gt;&lt;/a&gt; &lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;　　&lt;strong&gt;会飞的热带鱼&lt;/strong&gt;，这个名字的灵感来自于叫‘热带鱼’的影片，一部很台湾很夏天很白日梦的片子。没有特别的意思，只是想提醒自己，不要因为长大而放弃了纯真与梦幻，它们虽然不能成为生活的大米，但是确是最好的调味剂。
-    
-    </summary>
     
     
   </entry>
