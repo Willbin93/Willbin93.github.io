@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-04-27T15:13:50.000Z</updated>
+  <updated>2017-07-05T15:23:45.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,34 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title> 一个潦草的开头</title>
+    <link href="http://yoursite.com/2017/07/05/%E4%B8%80%E4%B8%AA%E6%BD%A6%E8%8D%89%E7%9A%84%E5%BC%80%E5%A4%B4/"/>
+    <id>http://yoursite.com/2017/07/05/一个潦草的开头/</id>
+    <published>2017-07-05T15:17:34.000Z</published>
+    <updated>2017-07-05T15:23:45.000Z</updated>
+    
+    <content type="html">&lt;p&gt;之前还有断断续续记点流水账的习惯，不知道是某个时点是因为什么原因，我没有兴致记录我的生活。可能是因为每天重复的生活已经无聊到只要复制昨天的流水账就可以了。去年博客上写的，我都删了，希望这次能坚持一段时间吧。&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;我写点东西，也只是纯粹打发一下时间，至少让自己不处于发呆的状态。&lt;/p&gt;
+&lt;p&gt;当然这里还是要先感谢一下匪头的监督，是他多次在我微博下冷嘲热讽我的FLAG，我才能记起这件事。&lt;/p&gt;
+&lt;p&gt;好久没除草了，大脑里一片乱糟糟的，感觉需要重装一下系统了。&lt;/p&gt;
+&lt;p&gt;开玩笑的，明天再说吧。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;之前还有断断续续记点流水账的习惯，不知道是某个时点是因为什么原因，我没有兴致记录我的生活。可能是因为每天重复的生活已经无聊到只要复制昨天的流水账就可以了。去年博客上写的，我都删了，希望这次能坚持一段时间吧。
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>About me</title>
     <link href="http://yoursite.com/2016/08/31/About%20me/"/>
     <id>http://yoursite.com/2016/08/31/About me/</id>
     <published>2016-08-31T14:35:05.000Z</published>
-    <updated>2017-04-27T15:13:50.000Z</updated>
+    <updated>2017-07-05T15:08:47.000Z</updated>
     
     <content type="html">&lt;pre&gt;&lt;code&gt;It&amp;apos;s new!
 &lt;/code&gt;&lt;/pre&gt;</content>
